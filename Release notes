@@ -8,3 +8,6 @@ This version includes a fix for the Worker Active Long-Term Leave Transaction us
 
 ETL Version 47.3 Released on 11/08/2026
 Included fixes for in worker usecase for hcm user table changed in insert query for name column(split_part(search_string, '|', 1))
+
+ETL Version 47.4 Released on 11/08/2026
+Included fixes for in worker usecase for hcm user table changed insert query 
