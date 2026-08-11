@@ -6,3 +6,5 @@ New version included fixes
 ETL Version 47.2 Released On 11/08/2026
 This version includes a fix for the Worker Active Long-Term Leave Transaction use case, where the quantity column was only allowing integer values. It now supports decimal values.
 
+ETL Version 47.3 Released on 11/08/2026
+Included fixes for in worker usecase for hcm user table changed in insert query for name column(split_part(search_string, '|', 1))
