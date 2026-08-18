@@ -14,3 +14,6 @@ Included fixes for in worker usecase for hcm user table changed insert query
 
 ETL Version 47.5 Released on 17/08/2025
 Included fixes for added new usecases Worker Email ID, Worker Government ID
+
+ETL Version 47.6 Released on 18/08/2026
+Included fixes for added new column reporting_code in prerequisites cost center entity
