@@ -17,3 +17,6 @@ Included fixes for added new usecases Worker Email ID, Worker Government ID
 
 ETL Version 47.6 Released on 18/08/2026
 Included fixes for added new column reporting_code in prerequisites cost center entity
+
+ETL Version 47.7 Released on 19/08/2026
+Included fixes for added legacy id in worker time off usecase
