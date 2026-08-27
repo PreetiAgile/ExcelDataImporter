@@ -24,5 +24,11 @@ Included fixes for added legacy id in worker time off usecase
 ETL Version 47.8 Released on 20/08/2026
 Included fixes for In worker emergency contact usecase for worker emergency email changed mapping for email tpye column before its mapping emial primary column
 
+ETL Version 47.9 Released on 22/08/2026
+Fixes for added new usecase legacy manager worker update
+
+ETL Version 48 Released on 24/08/2026
+fixes for the User Feature Permission Constraint Export entities. The groupId column was previously returned as an array of strings. Changed  the groupId SQL accordingly.
+
 ETL Version 48.1 Released on 27/08/2026
 Included fixes for added new usecase Worker Compensation Plan
