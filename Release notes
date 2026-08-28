@@ -32,3 +32,6 @@ fixes for the User Feature Permission Constraint Export entities. The groupId co
 
 ETL Version 48.1 Released on 27/08/2026
 Included fixes for added new usecase Worker Compensation Plan
+
+ETL Version 48.2 Released on 28/08/2026
+added new usecase worker address
