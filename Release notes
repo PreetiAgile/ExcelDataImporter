@@ -38,3 +38,6 @@ added new usecase worker address
 
 ETL Version 48.3 Released on 08/10/2026
 added new usecase Legacy System Info
+
+ETL Version 48.4 Relesed on 08/10/2026
+CHANGES INCLUDED FOR HANDLED VALIDATION FOR  DUPLICATE COLUMNS IN HEADER
